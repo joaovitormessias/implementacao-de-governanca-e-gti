@@ -41,7 +41,6 @@ O objetivo é estruturar uma governança e gestão de TI eficientes, garantindo 
 ✔ Capacitação dos funcionários para uso das novas ferramentas.  
 ✔ Cultura de inovação e melhoria contínua.  
 
-![Soluções](https://via.placeholder.com/800x400.png?text=Solucao+Proposta)
 
 ---
 
