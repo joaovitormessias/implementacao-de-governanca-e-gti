@@ -1,6 +1,6 @@
 # 📌 Implementação da Governança e Gestão de TI na Empresa de Móveis
 
-## 📌 Introdução
+## 📌 Problema
 A empresa enfrenta desafios devido à ausência de Tecnologia da Informação (TI) em seus processos. O controle manual de compras e vendas, além da terceirização do design dos móveis, reduz a eficiência e a competitividade no mercado. 
 
 O objetivo é estruturar uma governança e gestão de TI eficientes, garantindo melhor controle, produtividade e segurança.
