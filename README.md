@@ -67,7 +67,8 @@ graph LR
 🎯 **Maior agilidade e competitividade no mercado**.  
 🎯 **Facilidade na gestão e na tomada de decisões**.  
 
-![Captura de tela 2025-02-28 145737](https://github.com/user-attachments/assets/8ee0151b-8e3a-4d46-931e-605b2c0f05ca)
+![image](https://github.com/user-attachments/assets/b2c4a7d3-c975-4ec1-847b-6ec552b32372)
+
 
 
 ---
